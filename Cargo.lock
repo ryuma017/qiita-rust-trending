@@ -7,7 +7,7 @@ name = "qiita-client"
 version = "0.1.0"
 
 [[package]]
-name = "qiita-trending-api"
+name = "qiita-rust-trending"
 version = "0.1.0"
 dependencies = [
  "qiita-client",

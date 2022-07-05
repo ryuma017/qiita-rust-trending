@@ -1,5 +1,5 @@
 [workspace]
 members = [
     "qiita-client",
-    "qiita-trending-api",
+    "qiita-rust-trending",
 ]
